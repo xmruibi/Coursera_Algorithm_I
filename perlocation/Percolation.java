@@ -1,8 +1,11 @@
 
 import java.util.Random;
 
+<<<<<<< HEAD
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
+=======
+>>>>>>> 1c9592926244055f0fc9ac791c98bc7b5210061d
 
 public class Percolation {
 	private boolean[] grid;
